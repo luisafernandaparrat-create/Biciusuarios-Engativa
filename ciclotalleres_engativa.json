@@ -1,0 +1,327 @@
+[
+  {
+    "id": "SRB-042",
+    "fid": 37,
+    "nombre": "Calle 80 entre Transversal 94L y Carrera 102",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Minuto de Dios",
+    "coordenadas": {
+      "lat": 4.70999664,
+      "lng": -74.11119327
+    },
+    "globalId": "d414168d-a782-4d20-8bb2-66f77db990ae"
+  },
+  {
+    "id": "SRB-060",
+    "fid": 53,
+    "nombre": "Colegio Distrital Tomás Cipriano de Mosquera_TV 113 con proy Calle 65B",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Garcés Navas",
+    "coordenadas": {
+      "lat": 4.708135,
+      "lng": -74.134584
+    },
+    "globalId": "07395578-695b-4706-8ab6-41c22e929446"
+  },
+  {
+    "id": "SRB-061",
+    "fid": 54,
+    "nombre": "Colegio I.E.D. Torquigua_ Calle 64 al occidente de la Carrera 127_",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Bolivia",
+    "coordenadas": {
+      "lat": 4.721583,
+      "lng": -74.143883
+    },
+    "globalId": "43b48b84-82a9-4f86-b66a-eeb3c2fa00eb"
+  },
+  {
+    "id": "SRB-091",
+    "fid": 74,
+    "nombre": "Colegio I.E.D. Las Mercedes",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Garcés Navas",
+    "coordenadas": {
+      "lat": 4.700272,
+      "lng": -74.125218
+    },
+    "globalId": "c9ff4327-1745-4c32-9094-e84b8f601945"
+  },
+  {
+    "id": "SRB-092",
+    "fid": 75,
+    "nombre": "Parque Villa luz",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Álamos",
+    "coordenadas": {
+      "lat": 4.682117,
+      "lng": -74.108717
+    },
+    "globalId": "9ff6f1e9-350b-4b7f-83a0-2fd38a3dd8d9"
+  },
+  {
+    "id": "SRB-094",
+    "fid": 77,
+    "nombre": "Parque Villas de Granada",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Engativá (Centro)",
+    "coordenadas": {
+      "lat": 4.716877,
+      "lng": -74.122263
+    },
+    "globalId": "c32db22e-4717-4414-abb6-81d73b426add"
+  },
+  {
+    "id": "SRB-129",
+    "fid": 105,
+    "nombre": "Av Calle 26 entre Carrera 86 y Carrera 91",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Álamos",
+    "coordenadas": {
+      "lat": 4.680578,
+      "lng": -74.119989
+    },
+    "globalId": "74af7206-64c0-4aeb-833d-81a4f322dc11"
+  },
+  {
+    "id": "SRB-147",
+    "fid": 116,
+    "nombre": "Colegio Distrital Pablo Neruda Sede A - Calle 103H con Carrera 103A Bis",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Santa Cecilia",
+    "coordenadas": {
+      "lat": 4.672914,
+      "lng": -74.149049
+    },
+    "globalId": "7630047a-e0c7-4e8c-aee6-7fe51d7171f4"
+  },
+  {
+    "id": "SRB-149",
+    "fid": 117,
+    "nombre": "Parque zonal Atahualpa - AC 24 entre Carrera 113 y Carrera 116",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Santa Cecilia",
+    "coordenadas": {
+      "lat": 4.6895548,
+      "lng": -74.1449507
+    },
+    "globalId": "755361ee-255d-40ba-afd7-58c583a7c62d"
+  },
+  {
+    "id": "SRB-151",
+    "fid": 119,
+    "nombre": "Cl 90 X 95F - 40 (I.E.D. Técnico-Industrial \"Laureano Gómez\")",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Minuto de Dios",
+    "coordenadas": {
+      "lat": 4.71788546,
+      "lng": -74.10133577
+    },
+    "globalId": "088930c6-6f46-437b-8068-4f20c4503350"
+  },
+  {
+    "id": "SRB-152",
+    "fid": 120,
+    "nombre": "Cl 80 X 93a, Bogotá (CAI Quirigua)",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Minuto de Dios",
+    "coordenadas": {
+      "lat": 4.70618558,
+      "lng": -74.10737003
+    },
+    "globalId": "086a2c91-a214-469e-b76e-e7875e4dd4af"
+  },
+  {
+    "id": "SRB-204",
+    "fid": 162,
+    "nombre": "Carrera 111c entre calle 83 y Diag. 86a",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Engativá (Centro)",
+    "coordenadas": {
+      "lat": 4.722594,
+      "lng": -74.113598
+    },
+    "globalId": "d70179ce-7f6a-4558-aa97-027932c02e19"
+  },
+  {
+    "id": "SRB-244",
+    "fid": 187,
+    "nombre": "Calle 26 Entre 73A y 72B",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Álamos",
+    "coordenadas": {
+      "lat": 4.6691,
+      "lng": -74.11286
+    },
+    "globalId": "b374ef74-74d6-4fa3-8c97-9dd9e8010339"
+  },
+  {
+    "id": "SRB-264",
+    "fid": 204,
+    "nombre": "Boyaca entre 53 y 53A",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Jardín Botánico",
+    "coordenadas": {
+      "lat": 4.6713,
+      "lng": -74.10654
+    },
+    "globalId": "b1e511b9-98f2-4765-89d4-d7ea4f69d404"
+  },
+  {
+    "id": "SRB-287",
+    "fid": 220,
+    "nombre": "Calle 63 con carrera 71A",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Boyacá Real",
+    "coordenadas": {
+      "lat": 4.67334,
+      "lng": -74.10281
+    },
+    "globalId": "f08cd73b-4866-4b99-9fe8-e2ee98a68323"
+  },
+  {
+    "id": "SRB-316",
+    "fid": 242,
+    "nombre": "Colegio Nydia Quintero de Turbay - Cl 75 entre Kr 90 Bis y Kr 91A",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Minuto de Dios",
+    "coordenadas": {
+      "lat": 4.70158,
+      "lng": -74.10756
+    },
+    "globalId": "ed500060-899c-4200-ad3c-0ce0672464c1"
+  },
+  {
+    "id": "SRB-321",
+    "fid": 247,
+    "nombre": "Colegio Manuela Ayala de Gaitán - Carrera 78 con Calle 69A",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Boyacá Real",
+    "coordenadas": {
+      "lat": 4.68885,
+      "lng": -74.103294
+    },
+    "globalId": "72ec27f2-ca4e-40ec-bf7d-74e55502af3e"
+  },
+  {
+    "id": "SRB-323",
+    "fid": 249,
+    "nombre": "Colegio Manuela Ayala_ Calle 71 entre Carrera 75 y Carrera 76",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Las Ferias",
+    "coordenadas": {
+      "lat": 4.688207,
+      "lng": -74.099535
+    },
+    "globalId": "5cba2988-5a60-4e47-8693-ae56c6eb1962"
+  },
+  {
+    "id": "SRB-324",
+    "fid": 250,
+    "nombre": "Alcaldía Menor de Engativá_ Calle 71 entre Carrera 73A y Carrera 74A",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Las Ferias",
+    "coordenadas": {
+      "lat": 4.687144,
+      "lng": -74.098199
+    },
+    "globalId": "5b73b866-adef-4fe6-8faa-1e34e84b417c"
+  },
+  {
+    "id": "SRB-325",
+    "fid": 251,
+    "nombre": "Only_Calle 72 con Carrera 75",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Las Ferias",
+    "coordenadas": {
+      "lat": 4.690244,
+      "lng": -74.099018
+    },
+    "globalId": "3e9f0b59-d3c4-4b48-8478-7649505dc292"
+  },
+  {
+    "id": "SRB-326",
+    "fid": 252,
+    "nombre": "Colegio Floridablanca sede A_ Calle 70A entre Carrera 94 y Carrera 96",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Minuto de Dios",
+    "coordenadas": {
+      "lat": 4.6980066,
+      "lng": -74.1142777
+    },
+    "globalId": "ccdebb48-f556-4d37-a58d-b46fa8d65f7a"
+  },
+  {
+    "id": "SRB-358",
+    "fid": 280,
+    "nombre": "CAI Jaboque - Calle 67 A con Carrera 110",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Garcés Navas",
+    "coordenadas": {
+      "lat": 4.70339088,
+      "lng": -74.12891617
+    },
+    "globalId": "1e095957-dc6a-43e2-98a7-49fa75568f9f"
+  },
+  {
+    "id": "SRB-362",
+    "fid": 283,
+    "nombre": "CAI Macarena - Calle 17 con Carrera 115",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Santa Cecilia",
+    "coordenadas": {
+      "lat": 4.68201562,
+      "lng": -74.15468378
+    },
+    "globalId": "3adae42c-9b24-48ce-ab2b-b6d55767f57f"
+  },
+  {
+    "id": "SRB-371",
+    "fid": 290,
+    "nombre": "Calle 63 entre Carrera 68G y Carrera 69 - Jardín Botánico",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Jardín Botánico",
+    "coordenadas": {
+      "lat": 4.66801,
+      "lng": -74.0975
+    },
+    "globalId": "d95d5674-e545-4407-ae4d-139b2655b674"
+  },
+  {
+    "id": "SRB-372",
+    "fid": 291,
+    "nombre": "Calle 63 con AK 70 - Jardín Botánico",
+    "tipo": "ciclotaller",
+    "localidad": "Engativá",
+    "barrio": "Jardín Botánico",
+    "coordenadas": {
+      "lat": 4.6703074,
+      "lng": -74.1008729
+    },
+    "globalId": "8859f736-b4a0-4b70-beb9-d2b652bbf982"
+  }
+]
